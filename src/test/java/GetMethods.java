@@ -12,7 +12,6 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 
-
 public class GetMethods {
 
     public RequestSpecification req;
@@ -41,9 +40,9 @@ public class GetMethods {
 
         given()
                 .spec(req)
-        .when()
+                .when()
                 .get()
-        .then()
+                .then()
                 .spec(resp)
                 .assertThat()
                 .body("title[2]", Matchers.equalTo("Post3"));
