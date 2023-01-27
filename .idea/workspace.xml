@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b0f2e9-b43c-45d7-b0fe-3066f43be28e" name="Changes" comment="" />
+    <list default="true" id="67b0f2e9-b43c-45d7-b0fe-3066f43be28e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetMethods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674813388125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Corrections">
+      <created>1674813781921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674813781921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +160,7 @@
     <MESSAGE value="Add PostMethods" />
     <MESSAGE value="Add DeleteMethods" />
     <MESSAGE value="Add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
+    <MESSAGE value="Corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections" />
   </component>
 </project>
