@@ -5,7 +5,6 @@ import static io.restassured.RestAssured.when;
 
 public class DeleteMethods {
 
-
     @Test
     public void deletePost() {
         when()
